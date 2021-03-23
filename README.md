@@ -24,7 +24,7 @@ Now, what do you do next? Using [this example](https://github.com/brantburnett/C
 
 No.
 
-[You cannot use `.UseStartup<Startup>()` with .NET Core console app (at least in the version 5).](https://stackoverflow.com/questions/41407221/startup-cs-in-a-self-hosted-net-core-console-application) There is a nice workaround to that on [Stackoverflow](https://stackoverflow.com/a/63603562/3769649).
+[You cannot use `.UseStartup<Startup>()` with .NET Core console app (at least in the version 5).](https://stackoverflow.com/questions/41407221/startup-cs-in-a-self-hosted-net-core-console-application) However, there is a nice workaround to that on [Stackoverflow](https://stackoverflow.com/a/63603562/3769649).
 
 ## The solution
 
