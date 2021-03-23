@@ -28,7 +28,7 @@ No.
 
 ## The solution
 
-Using [the answer](https://stackoverflow.com/a/63603562/3769649) from Stackoverflow, we can achieve using `.UseStartup<Startup>()` in a console application. This repository shows you how.
+Using [the answer](https://stackoverflow.com/a/63603562/3769649) from Stackoverflow, we can achieve using `.UseStartup<Startup>()` in a console application by creating a class called `HostBuilderExtensions`. This repository shows you how.
 
 ## .NET Core 6
 
